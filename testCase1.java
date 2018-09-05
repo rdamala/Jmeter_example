@@ -7,7 +7,7 @@ public class testCase1 {
 	WebDriver driver = new FirefoxDriver();
 	
 	driver.get("https://google.com");
-	
+	driver.get ("http://facebook.com")
 }
 
 }
